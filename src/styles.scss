@@ -1,0 +1,12 @@
+$font-path:         '~dkfds/dist/fonts/IBMPlexSans/';
+$image-path:        '~dkfds/dist/img';
+$site-image-path:   '~dkfds/src/img';
+$icons-folder-path: '~dkfds/dist/img/svg-icons';
+
+$header-portal-logo: 'logo_borgerdk.svg';
+$header-portal-logo-height: 4.8rem;
+$header-portal-logo-width: 7.8rem;
+$header-portal-compact-logo-width: 3.8rem;
+
+//@import 'dkfds/dist/scss/dkfds-virkdk';
+@import 'dkfds/dist/scss/dkfds-borgerdk';
