@@ -1,3 +1,3 @@
 # angular-template
 
-Template app template using angular and dkfds
+Template app using angular and dkfds
